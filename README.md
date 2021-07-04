@@ -1,5 +1,5 @@
-# Webpack5
+[![Build status](https://ci.appveyor.com/api/projects/status/ujs5lsg9qst0xl57?svg=true)](https://ci.appveyor.com/project/Di-sole/2-ahj-env-8b21y)
+# Continuous Deployment
+[GitHub Pages](https://di-sole.github.io/2-ahj-env/)
 
-[Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
 
-[Migration Guide](https://webpack.js.org/migrate/5/)
