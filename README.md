@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ujs5lsg9qst0xl57?svg=true)](https://ci.appveyor.com/project/Di-sole/2-ahj-env-8b21y)
+[![Build status](https://ci.appveyor.com/api/projects/status/69ykp99v4ox0s0hi?svg=true)](https://ci.appveyor.com/project/Di-sole/2-ahj-env-mf2vw)
 # Continuous Deployment
 
 Практика в развёртывании тестирования, сборки и deployment на AppVeyor и GitHub Pages.
